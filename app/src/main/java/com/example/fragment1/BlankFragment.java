@@ -19,6 +19,7 @@ public class BlankFragment extends Fragment {
     private FragmentBlankBinding mBinding;
 
 
+
     // buscar o llamar la clase binding
 
     public BlankFragment() {
